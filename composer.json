@@ -1,0 +1,26 @@
+{
+    "name": "accolon/skeleton-php",
+    "description": "Skeleton project php",
+    "type": "project",
+    "require-dev": {
+        "pestphp/pest": "^1.19"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Accolon\\SkeletonPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jvrcavalcanti",
+            "email": "jonnyvictor01@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "sort": true,
+    "config": {
+        "optimize-autoloader": true
+    }
+}
